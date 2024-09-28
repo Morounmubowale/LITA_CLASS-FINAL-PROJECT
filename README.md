@@ -13,5 +13,13 @@ The primary source of Data used here is Data Sales.csv and this is an open sourc
   1. For Dat Cleaning
   2. For Analysis
   3. For Data Visualization
+   
 - SQL-Structured Query Lnaguage for Quering of Data
+  
 - GitHub for Portfolio Building
+
+  ### DATA CLEANING AND PREPARATION
+
+  ### EXPLORATORY DATA ANALYSIS
+
+###
