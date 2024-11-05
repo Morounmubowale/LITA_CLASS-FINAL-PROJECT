@@ -44,7 +44,7 @@ EDA involving exploring of data to answer some questions, such as
 This is where we include some class codes or DAX experience during class analysis;
 
 ---SQL
-Select *from[dbo].[SUBSCRIPTION SERVICE]
+Select *from[dbo].[SUBSCRIPTION SERVICE],
 select region , COUNT(region) AS Totalnumberofcustomer from [dbo].[SUBSCRIPTION SERVICE]
 group by region
 
