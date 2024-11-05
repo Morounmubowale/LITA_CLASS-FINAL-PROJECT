@@ -41,7 +41,7 @@ EDA involving exploring of data to answer some questions, such as
 4. whats is total revenue by region? 
 
 ### DATA ANALYSIS
-This is where we include some class codes or DAX experience during class analysis;
+This is where we include some class codes or DAX experience during lass analysis;
 
 ---SQL
 Select *from[dbo].[SUBSCRIPTION SERVICE],
