@@ -42,6 +42,10 @@ EDA involving exploring of data to answer some questions, such as
 
 ### DATA ANALYSIS
 This is where we include some class codes or DAX experience during class analysis. 
+---sql
+Select *from[dbo].[SUBSCRIPTION SERVICE]
+select region , COUNT(region) AS Totalnumberofcustomer from [dbo].[SUBSCRIPTION SERVICE]
+group by region
 
 ### DATA VIRTUALIZATION
 
